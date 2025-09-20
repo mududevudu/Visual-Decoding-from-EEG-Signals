@@ -55,7 +55,7 @@ The end-to-end pipeline successfully reconstructs recognizable images that are s
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/mududevudu/Visual-Decoding-from-EEG-Signals.git](https://github.com/mududevudu/Visual-Decoding-from-EEG-Signals.git)
+    git clone https://github.com/mududevudu/Visual-Decoding-from-EEG-Signals
     cd Visual-Decoding-from-EEG-Signals
    
 ## 📄 License
