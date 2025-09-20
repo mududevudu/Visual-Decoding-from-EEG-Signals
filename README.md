@@ -46,7 +46,7 @@ The pipeline processes the data in several key stages:
 
 ## 📊 Results
 
-The end-to-end pipeline successfully reconstructs recognizable images that are semantically aligned with the original visual stimuli. The final, fully-equipped model achieved a peak **Structural Similarity Index Measure (SSIM) of 24.14%**.
+The end-to-end pipeline successfully reconstructs recognizable images that are semantically aligned with the original visual stimuli. The final, fully-equipped model achieved a peak **Structural Similarity Index Measure (SSIM) of 14.32%**.
 <img width="2277" height="932" alt="image" src="https://github.com/user-attachments/assets/e14d6e7b-ac82-4b1a-96fb-b8769df09c74" />
 
 
