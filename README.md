@@ -8,8 +8,8 @@ A novel, end-to-end deep learning pipeline that reconstructs high-fidelity image
 
 ## Overall Architecture
 
-*To add your diagram, upload the `Overall Model.png` image to your repository and replace the link below with its path.*
-![Project Architecture](Overall_Model.png)
+![Project Architecture](<img width="2279" height="996" alt="image" src="https://github.com/user-attachments/assets/2068fc92-edcf-472f-a0d9-e6178e391345" />
+)
 
 ## 📖 Introduction
 
