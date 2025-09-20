@@ -8,7 +8,7 @@ A novel, end-to-end deep learning pipeline that reconstructs high-fidelity image
 
 ## Overall Architecture
 
-[Project Architecture]
+
 <img width="2279" height="996" alt="image" src="https://github.com/user-attachments/assets/698fc373-fb90-445f-b1ff-191022c0e621" />
 
 
